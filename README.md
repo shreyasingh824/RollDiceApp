@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # third_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# RollDiceApp
+>>>>>>> 8360e86ce94ed62d956724307d644c9a64e7ca08
